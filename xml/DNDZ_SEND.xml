@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<bean class="test.intface.dongruan.bean.DrSendBean"/>
+	<prames>
+		<prame var="intefaceType" type="c" long="4" explain="交易类型"/>
+		<prame var="owner" type="c" long="3" explain="发起方"/>
+		<prame var="custId" type="c" long="18" explain="个人编号"/>
+		<prame var="sn" type="c" long="18" explain="预核定流水号"/>
+		<prame var="amount" type="n" long="5" explain="缴费金额"/>
+		<prame var="bussSn" type="c" long="20" explain="金融机构流水号"/>
+		<prame var="date" type="c" long="10" explain="到账时间"/>
+		<prame var="noteNo" type="c" long="20" explain="票据单据号"/>
+	</prames>
+</project>

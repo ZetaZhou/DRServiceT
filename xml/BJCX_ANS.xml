@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<bean class="test.intface.dongruan.bean.DrAnsBean"/>
+	<prames>
+		<prame var="intefaceType" type="c" long="4" explain="交易类型"/>
+		<prame var="owner" type="c" long="3" explain="发起方"/>
+		<prame var="custId" type="c" long="18" explain="身份证号"/>
+		<prame var="sn" type="c" long="18" explain="核定流水号"/>
+		<prame var="maxChargeNum" type="n" long="2" explain="最大补缴年数"/>
+		<prame var="chargeNum2" type="c" long="64" explain="补缴年数"/>
+		<prame var="lvl" type="n" long="4" explain="缴费档次"/>
+		<prame var="ansFlag" type="c" long="4" explain="处理标识"/>
+		<prame var="amount" type="n" long="5" explain="缴费金额"/>
+		<prame var="xnbXzqh" type="c" long="6" explain="区县编码"/>
+	</prames>
+</project>

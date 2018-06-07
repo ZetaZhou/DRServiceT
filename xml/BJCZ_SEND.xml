@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<bean class="test.intface.dongruan.bean.DrSendBean"/>
+	<prames>
+		<prame var="intefaceType" type="c" long="4" explain="��������"/>
+		<prame var="owner" type="c" long="3" explain="����"/>
+		<prame var="sn" type="c" long="18" explain="Ԥ�˶���ˮ��"/>
+		<prame var="bussSn" type="c" long="20" explain="���ڻ�����ˮ��"/>
+	</prames>
+</project>

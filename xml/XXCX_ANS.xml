@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<bean class="com.sinoecare.nct.entity.DrAnsBean"/>
+	<prames>
+		<prame var="intefaceType" type="c" long="4" explain="交易类型"/>
+		<prame var="owner" type="c" long="3" explain="发起方"/>
+		<prame var="custId" type="c" long="18" explain="个人编号"/>
+		<prame var="xnbXzqh" type="c" long="6" explain="参保地区县编码"/>
+		<prame var="xnbFlag" type="c" long="1" explain="参保状态"/>	
+		<prame var="payFlag" type="c" long="1" explain="缴费状态"/>	
+		<prame var="lvls" type="c" long="100" explain="可选缴费档次"/>
+		<prame var="ansFlag" type="c" long="4" explain="应答状态"/>
+	</prames>
+</project>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<bean class="test.intface.dongruan.bean.DrAnsBean"/>
+	<prames>
+		<prame var="intefaceType" type="c" long="4" explain="��������"/>
+		<prame var="owner" type="c" long="3" explain="����"/>
+		<prame var="ansFlag" type="c" long="4" explain="�����ʶ"/>
+		<prame var="sn" type="c" long="18" explain="�˶���ˮ��"/>
+		<prame var="custName" type="c" long="20" explain="����"/>
+		<prame var="vill" type="c" long="100" explain="������"/>
+	</prames>
+</project>

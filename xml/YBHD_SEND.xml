@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<bean class="test.intface.dongruan.bean.DrSendBean"/>
+	<prames>
+		<prame var="intefaceType" type="c" long="4" explain="交易类型"/>
+		<prame var="owner" type="c" long="3" explain="发起方"/>
+		<prame var="custId" type="c" long="18" explain="个人编号"/>
+		<prame var="chargeNum" type="n" long="2" explain="补缴年数"/>
+		<prame var="lvl" type="n" long="4" explain="缴费档次"/>	
+	</prames>
+</project>
